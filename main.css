@@ -1,0 +1,17 @@
+.app {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.event-card {
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.button-buy {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
