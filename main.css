@@ -13,6 +13,10 @@
     overflow: hidden;
 }
 
+.event-card:hover {
+    background: lightgray;
+}
+
 .hide-card {
     height: 20px;
 }
